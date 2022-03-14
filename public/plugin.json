@@ -1,0 +1,21 @@
+{
+  "name": "code",
+  "pluginName": "code runner",
+  "description": "code runner",
+  "author": "ChandlerVer5's code runner",
+  "homepage": "https://www.kancloud.cn/@chandler",
+  "version": "0.0.1",
+  "preload": "preload/preload.js",
+  "main": "index.html",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://localhost:3000/index.html"
+  },
+  "features": [
+    {
+      "code": "code",
+      "explain": "code编辑器",
+      "cmds": ["code","runner"]
+    }
+  ]
+}
