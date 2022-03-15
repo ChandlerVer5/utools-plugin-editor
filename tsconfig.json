@@ -10,7 +10,7 @@
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "lib": ["esnext", "dom"],
-    "types": ["utools-api-types"],
+    "types": ["utools-api-types", "naive-ui/volar"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
